@@ -26,15 +26,15 @@ It serves as a small-scale **online shopping system prototype**, suitable for st
 
 ---
 ## 📂 Project Structure
-
-.
-├── src/ # Java source files (controllers, managed beans, logic)
-├── web/ # JSF pages, HTML, CSS, and static assets
-├── lib/ # External libraries and dependencies
-├── nbproject/ # NetBeans project configuration files
-├── build.xml # Build and deployment configuration
-└── .gitignore # Git ignore rules
-
+   ```
+   .
+   ├── src/ # Java source files (controllers, managed beans, logic)
+   ├── web/ # JSF pages, HTML, CSS, and static assets
+   ├── lib/ # External libraries and dependencies
+   ├── nbproject/ # NetBeans project configuration files
+   ├── build.xml # Build and deployment configuration
+   └── .gitignore # Git ignore rules
+```
 ---
 
 ## 🛠️ Technologies Used
