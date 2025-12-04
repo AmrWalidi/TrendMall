@@ -27,14 +27,15 @@ It serves as a small-scale **online shopping system prototype**, suitable for st
 ---
 ## 📂 Project Structure
 
-TrendMallJSF/
-│
-├── src/ # Java source files
-├── web/ # Web pages, JSF views, CSS, assets
-├── lib/ # External libraries
-├── nbproject/ # IDE configuration (NetBeans)
-├── build.xml # Build configuration
-└── .gitignore
+TrendMallJSF
+/
+├── src/           — Java source code  
+├── web/           — Web resources: HTML/CSS/templates/views  
+├── lib/           — External libraries / dependencies  
+├── nbproject/     — Project metadata (for NetBeans or similar IDE)  
+├── build.xml      — Build/compile instructions (Ant or build script)  
+├── .gitignore  
+└── …  
 
 ---
 
