@@ -1,6 +1,6 @@
-# TrendMallJSF
+# TrendMall
 
-TrendMallJSF is a Java-based web application developed using **JavaServer Faces (JSF)**. It represents a sample shopping mall / e-commerce style project built for learning and demonstration purposes.
+Java-based web application developed using **JavaServer Faces (JSF)**. It represents a sample shopping mall / e-commerce style project built for learning and demonstration purposes.
 
 ---
 
